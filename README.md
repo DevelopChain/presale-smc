@@ -1,2 +1,2 @@
 # presale-smc
-solidity smartcontract presale
+presale.sol solidity smartcontract presale
